@@ -4,7 +4,7 @@ https://motorrlib.gitlab.io/
 ## How to use
 
 Install Scilab 5.5.2 64 bit version. 
-Install FEMM 4.2 (25FEB2018 release) 64 bit. 
+Install FEMM 4.2 (21Apr2019 release) 64 bit. 
 
 Load scifemm file in scilab
 exec('D:\femm4.2\scifemm\scifemm.sci', -1);
