@@ -7,6 +7,12 @@ Install Scilab 5.5.2 64 bit version.
 
 Install FEMM 4.2 64 bit. 
 
+Download Onelab from www.onelab.info, and uncompress.
+
+Add the software paths to the motor variable when it is created. 
+
+If no FEA software is available in the right path, geometry is plotted in Scilab plot itself. 
+
 
 Load scifemm file in scilab
 
