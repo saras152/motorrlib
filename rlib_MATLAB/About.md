@@ -1,0 +1,1 @@
+This folder contains p coded files that help in building the motor in Gmsh, FEMM and MATLAB environments.
